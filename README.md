@@ -89,6 +89,9 @@ Now that you're finished with your analysis in Google Colab, you need to get you
 ## References
 IRS. Tax Exempt Organization Search Bulk Data Downloads. https://www.irs.gov/Links to an external site.
 
+- https://deepai.org/machine-learning-glossary-and-terms/gradient-boosting
+- https://deepai.org/machine-learning-glossary-and-terms/random-forest
+
 ## Copyright
 © 2024 edX Boot Camps LLC
 
